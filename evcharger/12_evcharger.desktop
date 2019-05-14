@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=EV Charger
+Name[zh_TW]=充电桩
+Name[zh_CN]=充电桩
+
+Type=Application
+Icon=/usr/share/pixmaps/evcharger192.png
+Exec=/home/myir/evcharger --platform linuxfb
+Terminal=false
+MimeType=application/x-directory;inode/directory;
+Categories=System;FileTools;Utility;Qt;FileManager;
